@@ -1,0 +1,13 @@
+name = "Exam2"
+uuid = "729d92d7-e608-4a61-a84e-bfec72436fb5"
+authors = ["mathutopia <mathutopia@163.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
